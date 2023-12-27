@@ -17,6 +17,6 @@
  
 # Folllowing are the images
 ![ER diagram](ER_diagram.jpg) 
-![ER diagram](Relational_Database-1.jpg) 
-![ER diagram](Relational_Database-2.jpg) 
+![Relational_Database-1](Relational_Database-1.jpg) 
+![Relational_Database-2](Relational_Database -2.jpg) 
 
