@@ -1,6 +1,6 @@
 # A Library Management System Design
-- The ER diagram represents the Design of a Library Management system for Educational Institutes
-- The Design is built using Crow-Foot Notation
+- The ER diagram represents the Design of a Library Management system for Educational Institutes.
+- The Design is built using Crow-Foot Notation.
 - The Design is built using multiple entities like
    - Book
    - Author
